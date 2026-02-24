@@ -2,7 +2,7 @@
 
 Versions 2.1 and above include an API ([application programming interface](http://en.wikipedia.org/wiki/Application_programming_interface){target=_blank}) that gives site administrators the opportunity to make their item, collection, tags, and exhibit data visible and usable by outside applications.
 
-Some online collections are making their data available through APIs, such as the [Digital Public Library of America](http://dp.la/info/developers/codex/){target=_blank} and the [Brooklyn Museum](http://www.brooklynmuseum.org/opencollection/api/){target=_blank}, among others. APIs make your collections more accessible, and also contribute to the long-term sustainability by making it easier for your Omeka Classic data to communicate and be shared with other systems via web-based protocols.
+Some online collections are making their data available through APIs, such as the [Digital Public Library of America](https://pro.dp.la/developers/api-codex){target=_blank} and the [Brooklyn Museum](http://www.brooklynmuseum.org/opencollection/api/){target=_blank}, among others. APIs make your collections more accessible, and also contribute to the long-term sustainability by making it easier for your Omeka Classic data to communicate and be shared with other systems via web-based protocols.
 
 ### Enabling the API 
 Superusers can choose whether to enable the API in the API tab under Settings in the top navigation of the Admin dashboard.
